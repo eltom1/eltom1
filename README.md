@@ -22,16 +22,21 @@
 </p>
 
 
-<!-- 
-## Skills
-![Racket](https://img.shields.io/badge/Racket-%239F1D20.svg?style=for-the-badge&logo=racket&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+## 🛠️ Skills & Technologies
+
+### Programming & Scripting Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
+![Racket](https://img.shields.io/badge/Racket-%239F1D20.svg?style=for-the-badge&logo=racket&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
+
+### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
--->
+
+
 ##
 [![GitHub Streak](https://streak-stats.demolab.com/?user=eltom1&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
