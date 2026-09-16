@@ -2,9 +2,9 @@
   Hi, I'm Tomasss
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h2>
+ 
 
-### Socials
-
+<!--
 <p align="left">
 
   <a href="https://github.com/eltom1" target="_blank">
@@ -39,7 +39,7 @@
 ### Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-
+-->
 <p align="left">
   <img
     src="https://streak-stats.demolab.com/?user=eltom1&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"
